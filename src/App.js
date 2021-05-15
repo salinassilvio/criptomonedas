@@ -1,7 +1,6 @@
 import React from 'react'; 
 import styled from '@emotion/styled';
 import imagen from './cryptomonedas.png';
-import Fomulario from './components/Formulario'
 import Formulario from './components/Formulario';
 
 const Contenedor = styled.div`
